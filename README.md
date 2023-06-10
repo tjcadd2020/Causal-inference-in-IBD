@@ -8,3 +8,6 @@ python dowhy_IBD.py
 1. prior graph edges, which can be downloaded such as .kgml or .gml files in KEGG website, then convert the format into source/target in each row.
 2. dataframe with gene expressions: row as sample, col as geneID (the last col as condition)
 
+# Output
+CI_result file with causal inference estimation value of each gene.
+
