@@ -2,7 +2,9 @@
 Gao, Sheng, et al. "IBD Subtype-Regulators IFNG and GBP5 Identified by Causal Inference Drive More Intense Innate Immunity and Inflammatory Responses in CD Than Those in UC." Frontiers in Pharmacology 13 (2022).
 
 # Usage
-'''python dowhy_IBD.py'''
+```python
+python dowhy_IBD.py
+```
 
 # Input
 1. A prior graph edges file: it can be downloaded such as .kgml or .gml files in KEGG website, then convert it into a dataframe (see in example files).
